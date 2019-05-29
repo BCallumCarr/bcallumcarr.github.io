@@ -6,10 +6,19 @@
     <description>Recent content on A Work In Progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2019 08:56:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2019 09:19:24 +0100</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second Post Wow</title>
+      <link>http://example.org/posts/second-post-wow/</link>
+      <pubDate>Wed, 29 May 2019 09:19:24 +0100</pubDate>
+      
+      <guid>http://example.org/posts/second-post-wow/</guid>
+      <description>You gotta check if your posts are set to draft mode in the .md files!</description>
+    </item>
     
     <item>
       <title>Test Post 1</title>
