@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Work In Progress</title>
+    <title>This is a work in progress</title>
     <link>http://example.org/</link>
-    <description>Recent content on A Work In Progress</description>
+    <description>Recent content on This is a work in progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 May 2019 09:19:24 +0100</lastBuildDate>
